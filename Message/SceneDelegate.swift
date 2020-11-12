@@ -1,8 +1,7 @@
 //
 //  SceneDelegate.swift
-//  Message
 //
-//  Created by Project K Developer on 11.11.2020.
+//  Created by Kotaev Ruslan on 11.11.2020.
 //
 
 import UIKit

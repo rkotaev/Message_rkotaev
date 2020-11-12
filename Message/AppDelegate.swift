@@ -1,11 +1,11 @@
 //
 //  AppDelegate.swift
-//  Message
 //
-//  Created by Project K Developer on 11.11.2020.
+//  Created by Kotaev Ruslan on 11.11.2020.
 //
 
 import UIKit
+import Firebase
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -14,6 +14,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        
+        FirebaseApp.configure()
         return true
     }
 
