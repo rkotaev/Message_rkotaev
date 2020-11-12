@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>580333025688-o156k1m0a100s7rkeqpuqeo7r4qrecq1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.580333025688-o156k1m0a100s7rkeqpuqeo7r4qrecq1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD54VU7mDq1sm-RhSG8isw6dSCcI5UbPE0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>580333025688</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Rkotaev.Message</string>
+	<key>PROJECT_ID</key>
+	<string>messagefirebase-204dc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>messagefirebase-204dc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:580333025688:ios:90174818d46bd6f20493ed</string>
+	<key>DATABASE_URL</key>
+	<string>https://messagefirebase-204dc.firebaseio.com</string>
+</dict>
+</plist>
